@@ -27,5 +27,7 @@ while (1):
     elif(x=="printall"):
        for i in info:
            print(i['name'],':',i['phone'])
+    else:
+        print('error')
            
  
